@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: #be3144;
+}
+
+.container-fluid{
+    background-color:#be3144;
+    margin: 0px;
+    
+}
+
+.navbar{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar-nav{
+    float: right;
+}
+
+.nav-list{
+    margin-right: 10px;
+}
+
+.sectionOne{
+    background-color: #303841;
+    height: 700px;
+}
+
