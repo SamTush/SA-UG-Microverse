@@ -1,5 +1,6 @@
 body{
     padding: 0px;
+    
 }
 
 h1{
@@ -34,3 +35,24 @@ p{
     height: 700px;
 }
 
+.sectionTwo{
+    background-color: #45567d;
+}
+
+.project-image{
+    height: 379px;
+    width: 359px;
+}
+
+.sec-four{
+    background-color: #303841;
+}
+
+.line{
+    color: #be3144;
+    height: 12px;
+}
+
+footer{
+    background-color: #303841;
+}
